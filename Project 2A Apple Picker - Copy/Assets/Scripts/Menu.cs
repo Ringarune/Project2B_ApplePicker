@@ -7,6 +7,7 @@ using UnityEngine.UI;
 /// </summary>
 public class Menu : MonoBehaviour
 {
+    //testing merging
     public static int counter = 0;
     //variables
     public GameObject screen;
